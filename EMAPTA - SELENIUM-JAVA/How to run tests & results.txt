@@ -1,0 +1,24 @@
+HOW TO RUN TESTS (Using vscode)
+1. Install vscode
+2. Ensure that extensions are installed (extension pack for java, debugger for java, project manager for java, test runner for java)
+3. Open java file from vscode application by clicking File > Open Folder > Path of java application
+4. Once opened select the java application to run (named Scenario1, Scenario2 & Scenario3) 
+5. Click the run button on the upper part of the screen (looks like a play button)
+6. Expect the java application to run successfully
+
+
+INSTALLING BROWSER WEBDRIVER & SETTING IT UP IN THE CODE (chromewebdriver) 
+1. https://chromedriver.chromium.org/downloads
+2. Once downloaded, extract chromewebdriver.exe to any path you like 
+3. Once done, input the path of the downloaded chromewebdriver in the 'system.setProperty' method (Ensure that the path is separated by '\\' to have no errors) 
+
+
+
+TEST RESULTS 
+Please see video recording for tests
+> Scenario #1 test - https://share.getcloudapp.com/12uvg9QD
+> Scenario #2 test - https://share.getcloudapp.com/lluoEmWJ
+> Scenario #3 test - https://share.getcloudapp.com/GGuplZbB
+
+
+
